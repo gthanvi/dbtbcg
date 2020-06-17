@@ -36,7 +36,6 @@ models:
       CRM:
         Staging:
          materialized: view
-  my_new_project:
       CRM:
         Reporting:
          materialized: view
