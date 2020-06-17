@@ -1,0 +1,2 @@
+{{ config(schema='CRM_STG',materialized='VIEW') }}
+SELECT 1 AS CONTACTID, 'GAURAV THANVI' AS FULLNAME, 'BCG' AS COMPANY, 33 AS AGE
