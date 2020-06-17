@@ -1,6 +1,0 @@
-
-version: 2
-
-models:
-    - name: STG_VW_CONTACT
-      description: "A STAGING CONTACT dbt model"
