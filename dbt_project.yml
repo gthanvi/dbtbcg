@@ -36,6 +36,5 @@ models:
       CRM:
         Staging:
          materialized: view
-      CRM:
         Reporting:
          materialized: view
